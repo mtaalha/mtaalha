@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Talha 👋
 
-<!--
-**mtaalha/mtaalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS IT student at Baba Guru Nanak University Nankana Sahib
+💻 Learning web and app development
+📍 Lahore, Pakistan
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning
+- HTML & CSS
+- PHP & MySQL (forms, login, CRUD)
+- JSON, sessions, and connecting to live servers
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📂 My projects
+- **Student Registration Form** – PHP + MySQL form that stores student data
+- **Login System** – PHP login page with MySQL authentication
+- **Student Record Management** – full CRUD web app
+
+## 🎯 Goals
+- Build and publish a complete app
+- Learn Flutter for mobile apps
+- Contribute to open-source projects
+
+## 📫 Connect with me
+- LinkedIn: [Muhammad Talha](https://www.linkedin.com/in/talha2715/)
+
+⭐ Thanks for visiting my profile!
